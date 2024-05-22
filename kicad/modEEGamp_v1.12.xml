@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/luiz/Syncthing/brain/EEG/kicad/gnu/modEEGamp_v1.12/modEEGamp_v1.12.kicad_sch</source>
+    <date>ter 30 abr 2024 16:26:51</date>
+    <tool>Eeschema 7.0.10-7.0.10~ubuntu22.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>modEEGamp_v1.12.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>47µF</value>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="modEEGdigital_v1.12-eagle-import" part="ELC-5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81704366-0e7a-4050-b982-e1263c45cbc1</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGdigital_v1.12-eagle-import" part="CAPNP-5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>307971eb-76dc-4704-b96a-05921a5d8cd6</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10nF</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGdigital_v1.12-eagle-import" part="CAPNP-5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ab3108f-3ff5-4281-82f8-677d90e7e986</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>47µF</value>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="modEEGdigital_v1.12-eagle-import" part="ELC-5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72b0badf-f787-4f4a-a51f-acebc2b784b3</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGdigital_v1.12-eagle-import" part="CAPNP-5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1b2d6e8-9555-4e48-8a7d-158766ef1394</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10nF</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGdigital_v1.12-eagle-import" part="CAPNP-5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29b7904d-8112-4dd2-8022-d1de333538ab</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGdigital_v1.12-eagle-import" part="CAPNP-5@2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28d6935a-49bc-4edd-a7d2-bf9214f6e6ec</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>47µF</value>
+      <footprint>Capacitor_THT:CP_Radial_D6.3mm_P2.50mm</footprint>
+      <libsource lib="modEEGdigital_v1.12-eagle-import" part="ELC-5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd2c2804-7094-48ad-b1c2-ef1af5b201ae</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGdigital_v1.12-eagle-import" part="CAPNP-5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0453ee2b-8bdf-4cc0-b959-9e30aa55bd01</tstamps>
+    </comp>
+    <comp ref="C206">
+      <value>100pF</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="CAPNP-7,5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de00f1e7-c2a6-46c6-acce-7a6f039e7866</tstamps>
+    </comp>
+    <comp ref="C207">
+      <value>100pF</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="CAPNP-7,5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e138db2-ba9f-46ea-9bd0-2b131b801d06</tstamps>
+    </comp>
+    <comp ref="C210">
+      <value>10pF</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="CAPNP-7,5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>167a9410-2317-4bf4-a97e-dfd9dcb850f6</tstamps>
+    </comp>
+    <comp ref="C212">
+      <value>1nF</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="CAPNP-7,5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e144017-7192-4fba-a827-b865fc917414</tstamps>
+    </comp>
+    <comp ref="C215">
+      <value>100nF</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="CAPNP-5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e513346-5aa6-4373-b673-162c0b8458ca</tstamps>
+    </comp>
+    <comp ref="C216">
+      <value>1nF</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="CAPNP-7,5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>350c4883-372f-465c-a962-7d75036b8e73</tstamps>
+    </comp>
+    <comp ref="C218">
+      <value>100nF</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="CAPNP-5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>765df73b-38c8-4018-919d-b26703dd1266</tstamps>
+    </comp>
+    <comp ref="C219">
+      <value>100nF</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="CAPNP-5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b973f9cc-9c9a-497c-8541-bcc24a54a3a0</tstamps>
+    </comp>
+    <comp ref="C221">
+      <value>1µF</value>
+      <footprint>modEEGamp_v1.12:C-10</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="CAPNP-7,5@2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49b91b94-7a26-4e1d-b9cf-6be6c8563e2b</tstamps>
+    </comp>
+    <comp ref="C223">
+      <value>100nF</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="CAPNP-5@2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd47bd3a-a409-4075-82bc-1dc532c0fc2c</tstamps>
+    </comp>
+    <comp ref="C224">
+      <value>1nF</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="CAPNP-7,5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>723a2841-9a81-4bb1-ae1d-c1239c07f13b</tstamps>
+    </comp>
+    <comp ref="C226">
+      <value>100nF</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="CAPNP-5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b39e8b3-60d6-41fc-8ddc-ed1d30f6d598</tstamps>
+    </comp>
+    <comp ref="C228">
+      <value>1µF</value>
+      <footprint>modEEGamp_v1.12:C-10</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="CAPNP-7,5@3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7cbdbc28-f257-434a-8367-ea1a58462fa3</tstamps>
+    </comp>
+    <comp ref="C230">
+      <value>100nF</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="CAPNP-5@2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>898bb18c-d958-4885-87cc-9125ca1050be</tstamps>
+    </comp>
+    <comp ref="C233">
+      <value>1nF</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="CAPNP-7,5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>163a74f4-5142-4a38-863e-1a7a655ceb9f</tstamps>
+    </comp>
+    <comp ref="C235">
+      <value>220nF 5%</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="CAPNP-5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2864b6f6-ff4d-4ce1-a2d6-8bf40015a7a6</tstamps>
+    </comp>
+    <comp ref="C236">
+      <value>33nF 5%</value>
+      <footprint>modEEGamp_v1.12:C-5</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="CAPNP-5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2414cab2-6419-4303-9533-d0c47b90b782</tstamps>
+    </comp>
+    <comp ref="CH1">
+      <value> </value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1f06183-7c38-4a28-8ed0-763760afcb88</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N5818</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88525/1n5817.pdf</datasheet>
+      <libsource lib="Diode" part="1N5818" description="30V 1A Schottky Barrier Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <property name="ki_description" value="30V 1A Schottky Barrier Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f364ab6-3d32-4240-a603-a2f47c76c0f2</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N5818</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88525/1n5817.pdf</datasheet>
+      <libsource lib="Diode" part="1N5818" description="30V 1A Schottky Barrier Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <property name="ki_description" value="30V 1A Schottky Barrier Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0596c64-0f33-4c85-be58-a86e6319a5cf</tstamps>
+    </comp>
+    <comp ref="IC201">
+      <value>TLC277</value>
+      <footprint>modEEGamp_v1.12:DIL-08</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tlc272.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="TLC277" description="Dual LinCMOS Precision Dual Operational Amplifiers, DIP-8/SOIC-8/SSOP-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <property name="ki_description" value="Dual LinCMOS Precision Dual Operational Amplifiers, DIP-8/SOIC-8/SSOP-8"/>
+      <property name="ki_keywords" value="dual opamp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76238524-9702-4132-b1bc-45858ca9a13f 49bce550-dbbf-4802-93ab-b3dc314b8e9c 42938890-e903-4409-a023-54aab89d4aaf</tstamps>
+    </comp>
+    <comp ref="IC203">
+      <value>INA114P</value>
+      <footprint>modEEGamp_v1.12:DIL-08</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="INA114P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6921eda-6ab0-4f99-8ad8-a4d05456ea1a</tstamps>
+    </comp>
+    <comp ref="IC206">
+      <value>TLC277P</value>
+      <footprint>modEEGamp_v1.12:DIL-08</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="TLC277P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ddaf869-7439-46c1-8706-cd8851d0bb6a 802f82f2-de17-4616-9ba4-95cd59e675fe 51b790e0-0e88-4a17-8ee1-b2298988759b</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Power</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>972bf020-256a-4345-ab8e-747bd423af43</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Saída</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87fdfb87-69dd-43b0-993e-7d894f9a1565</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>right leg</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Pin" description="Generic connector, single row, 01x01, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>771597d6-4a7b-4e29-a2a0-2c0f24402266</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>22µH</value>
+      <footprint>Inductor_THT:L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75</footprint>
+      <libsource lib="modEEGdigital_v1.12-eagle-import" part="L-10" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36ac1071-f95c-4791-b4f4-698eabfb9e00</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>22µH</value>
+      <footprint>Inductor_THT:L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75</footprint>
+      <libsource lib="modEEGdigital_v1.12-eagle-import" part="L-10" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aae4d3b1-3a1b-4759-90ee-d5c7578eb323</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>20k</value>
+      <footprint>modEEGamp_v1.12:S64Y</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="TRIMPOT@2_S64Y" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0a0851e-ea48-4c3d-8931-72ed1018f34c</tstamps>
+    </comp>
+    <comp ref="P201">
+      <value>20k</value>
+      <footprint>modEEGamp_v1.12:S64Y</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="S64Y" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a99ab63b-0d0c-465a-8ff3-7a77faec1238</tstamps>
+    </comp>
+    <comp ref="P203">
+      <value>20k</value>
+      <footprint>modEEGamp_v1.12:S64Y</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="TRIMPOT@2_S64Y" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4041a74-394a-4c53-885b-1ad06dedb54d</tstamps>
+    </comp>
+    <comp ref="Q202">
+      <value>BC557</value>
+      <footprint>modEEGamp_v1.12:TO92</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="BC557" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b927b21d-0ddf-4505-9538-1c6d45f8cb9d</tstamps>
+    </comp>
+    <comp ref="Q204">
+      <value>BC557</value>
+      <footprint>modEEGamp_v1.12:TO92</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="BC557" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b69c3b55-3dca-4f84-a3cf-cb78c633cf89</tstamps>
+    </comp>
+    <comp ref="Q206">
+      <value>BC547</value>
+      <footprint>modEEGamp_v1.12:TO92</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="BC547" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2632686-d44b-43a9-85cb-ba5901986843</tstamps>
+    </comp>
+    <comp ref="Q208">
+      <value>BC547</value>
+      <footprint>modEEGamp_v1.12:TO92</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="BC547" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c383b7e8-5436-4f0c-a36b-845b43ff2d0c</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="RESEU-7,5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ae882d3-16ad-4a10-bd9c-72bc709d36d6</tstamps>
+    </comp>
+    <comp ref="R203">
+      <value>2k2</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="RESEU-10" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5754754b-fbd6-4b49-93a9-48fd93133f4b</tstamps>
+    </comp>
+    <comp ref="R204">
+      <value>2k2</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="RESEU-10" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8bede8e-08c9-4e68-b9fb-73040888d4e3</tstamps>
+    </comp>
+    <comp ref="R209">
+      <value>2k2</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="RESEU-10" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd83815b-9309-4b17-bd75-16e83758e163</tstamps>
+    </comp>
+    <comp ref="R210">
+      <value>2k2</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="RESEU-10" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e7eee10-6bad-4fab-b72b-0a03bceda61f</tstamps>
+    </comp>
+    <comp ref="R211">
+      <value>2k2</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="RESEU-10" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64cc759b-470f-4201-9f6c-c187bc47b74c</tstamps>
+    </comp>
+    <comp ref="R212">
+      <value>2k2</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="RESEU-10" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b7ae172-15cb-4caf-bdae-f804f2662d11</tstamps>
+    </comp>
+    <comp ref="R213">
+      <value>200k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="RESEU-10" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de099e3a-5120-4989-a941-39abe587169a</tstamps>
+    </comp>
+    <comp ref="R216">
+      <value>2k2</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="RESEU-7,5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ffca040-2ab7-43d6-a7a3-7d0739b71160</tstamps>
+    </comp>
+    <comp ref="R217">
+      <value>2k2</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="RESEU-7,5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e87a2ef-50c9-46e1-a0a7-1508b4bd759d</tstamps>
+    </comp>
+    <comp ref="R218">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="RESEU-10" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>047d15a0-1b38-4670-91e0-fc3845cc2c34</tstamps>
+    </comp>
+    <comp ref="R222">
+      <value>1k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="RESEU-7,5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce5addee-e04a-4416-b26d-61f266d715a3</tstamps>
+    </comp>
+    <comp ref="R225">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="RESEU-7,5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13528802-b5bd-41db-ae50-ea24ecab37c7</tstamps>
+    </comp>
+    <comp ref="R226">
+      <value>1M</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="RESEU-7,5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b56c39fd-c208-4094-9aac-9289a9731043</tstamps>
+    </comp>
+    <comp ref="R233">
+      <value>15k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="RESEU-7,5@2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e6a3151-b87b-476c-bda5-f2b60c20cbbb</tstamps>
+    </comp>
+    <comp ref="R234">
+      <value>8.2k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="RESEU-7,5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0877f08f-70c0-49e7-82f2-d1c51287b59c</tstamps>
+    </comp>
+    <comp ref="R235">
+      <value>100k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="RESEU-7,5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc6bbf16-2a99-4b86-86f4-463968355a79</tstamps>
+    </comp>
+    <comp ref="R236">
+      <value>1M</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="RESEU-7,5" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aab330de-700c-42c6-87e6-a34125bafade</tstamps>
+    </comp>
+    <comp ref="R237">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="modEEGamp_v1.12-eagle-import" part="RESEU-7,5@2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c9f9cc2-b97c-4766-847e-79dcec7cc183</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM317_TO-220</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm317.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="LM317_TO-220" description="1.5A 35V Adjustable Linear Regulator, TO-220"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="modEEGamp_v1.12.kicad_sch"/>
+      <property name="ki_description" value="1.5A 35V Adjustable Linear Regulator, TO-220"/>
+      <property name="ki_keywords" value="Adjustable Voltage Regulator 1A Positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82996aa9-b19c-4e36-aaf3-d013f69b1642</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Amplifier_Operational" part="TLC277">
+      <description>Dual LinCMOS Precision Dual Operational Amplifiers, DIP-8/SOIC-8/SSOP-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tlc272.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TO*99*</fp>
+        <fp>OnSemi*Micro8*</fp>
+        <fp>TSSOP*3x3mm*P0.65mm*</fp>
+        <fp>TSSOP*4.4x3mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.65mm*</fp>
+        <fp>SSOP*3.9x4.9mm*P0.635mm*</fp>
+        <fp>LFCSP*2x2mm*P0.5mm*</fp>
+        <fp>*SIP*</fp>
+        <fp>SOIC*5.3x6.2mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TLC277</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tlc272.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x01_Pin">
+      <description>Generic connector, single row, 01x01, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Pin">
+      <description>Generic connector, single row, 01x02, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Pin">
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N5818">
+      <description>30V 1A Schottky Barrier Rectifier Diode, DO-41</description>
+      <docs>http://www.vishay.com/docs/88525/1n5817.pdf</docs>
+      <footprints>
+        <fp>D*DO?41*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N5818</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88525/1n5817.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LM317_TO-220">
+      <description>1.5A 35V Adjustable Linear Regulator, TO-220</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm317.pdf</docs>
+      <footprints>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM317_TO-220</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm317.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ADJ" type="input"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="modEEGamp_v1.12-eagle-import" part="BC547">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Footprint">modEEGamp_v1.12:TO92</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="modEEGamp_v1.12-eagle-import" part="BC557">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Footprint">modEEGamp_v1.12:TO92</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="modEEGamp_v1.12-eagle-import" part="CAPNP-5">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Footprint">modEEGamp_v1.12:C-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="modEEGamp_v1.12-eagle-import" part="CAPNP-5@2">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Footprint">modEEGamp_v1.12:C-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="modEEGamp_v1.12-eagle-import" part="CAPNP-7,5">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Footprint">modEEGamp_v1.12:C-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="modEEGamp_v1.12-eagle-import" part="CAPNP-7,5@2">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Footprint">modEEGamp_v1.12:C-10</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="modEEGamp_v1.12-eagle-import" part="CAPNP-7,5@3">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Footprint">modEEGamp_v1.12:C-10</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="modEEGamp_v1.12-eagle-import" part="INA114P">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Footprint">modEEGamp_v1.12:DIL-08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RG" type="passive"/>
+        <pin num="2" name="-IN" type="input"/>
+        <pin num="3" name="+IN" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="REF" type="passive"/>
+        <pin num="6" name="OUT" type="output"/>
+        <pin num="7" name="V+" type="power_in"/>
+        <pin num="8" name="RG@1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="modEEGamp_v1.12-eagle-import" part="RESEU-10">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Footprint">modEEGamp_v1.12:R-10</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="modEEGamp_v1.12-eagle-import" part="RESEU-7,5">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Footprint">modEEGamp_v1.12:R-10</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="modEEGamp_v1.12-eagle-import" part="RESEU-7,5@2">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Footprint">modEEGamp_v1.12:R-10</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="modEEGamp_v1.12-eagle-import" part="S64Y">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Footprint">modEEGamp_v1.12:S64Y</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="modEEGamp_v1.12-eagle-import" part="TLC277P">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Footprint">modEEGamp_v1.12:DIL-08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="output"/>
+        <pin num="2" name="-IN" type="input"/>
+        <pin num="3" name="+IN" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="+IN" type="input"/>
+        <pin num="6" name="-IN" type="input"/>
+        <pin num="7" name="OUT" type="output"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="modEEGamp_v1.12-eagle-import" part="TRIMPOT@2_S64Y">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Footprint">modEEGamp_v1.12:S64Y</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="modEEGdigital_v1.12-eagle-import" part="CAPNP-5">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Footprint">modEEGdigital_v1.12:C-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="modEEGdigital_v1.12-eagle-import" part="CAPNP-5@2">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Footprint">modEEGdigital_v1.12:C-5@1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="modEEGdigital_v1.12-eagle-import" part="ELC-5">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Footprint">modEEGdigital_v1.12:EL25B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="modEEGdigital_v1.12-eagle-import" part="L-10">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Footprint">modEEGdigital_v1.12:R-12,5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Operational">
+      <uri>/usr/share/kicad/symbols//Amplifier_Operational.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>/usr/share/kicad/symbols//Diode.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/usr/share/kicad/symbols//Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="modEEGamp_v1.12-eagle-import">
+      <uri>/home/luiz/Syncthing/brain/EEG/kicad/gnu/modEEGamp_v1.12/modEEGamp_v1.12-eagle-import.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V{slash}2">
+      <node ref="C1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C218" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C226" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C230" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC201" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="IC203" pin="7" pinfunction="V+" pintype="power_in"/>
+      <node ref="IC206" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5V{slash}3">
+      <node ref="C4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="3" name="COM">
+      <node ref="C216" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC201" pin="2" pinfunction="-" pintype="input"/>
+      <node ref="R218" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="4" name="DC CHECK">
+      <node ref="C221" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC203" pin="6" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="5" name="GND">
+      <node ref="C1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C215" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C219" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C223" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C230" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="IC201" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="IC203" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="IC206" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="P1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="P201" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(C212-Pad2)">
+      <node ref="C212" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC201" pin="1" pintype="output"/>
+      <node ref="R213" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(C228-Pad2)">
+      <node ref="C228" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R236" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R237" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(C236-Pad1)">
+      <node ref="C236" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R233" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R237" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D1-K)">
+      <node ref="C7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(IC201A-+)">
+      <node ref="IC201" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="P201" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(IC201B-+)">
+      <node ref="IC201" pin="5" pinfunction="+" pintype="input"/>
+      <node ref="R216" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R217" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(IC201B--)">
+      <node ref="IC201" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="IC201" pin="7" pintype="output"/>
+      <node ref="R218" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(IC203-+IN)">
+      <node ref="IC203" pin="3" pinfunction="+IN" pintype="input"/>
+      <node ref="R210" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(IC203--IN)">
+      <node ref="IC203" pin="2" pinfunction="-IN" pintype="input"/>
+      <node ref="R211" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(IC203-RG)">
+      <node ref="IC203" pin="1" pinfunction="RG" pintype="passive"/>
+      <node ref="R216" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(IC203-RG@1)">
+      <node ref="IC203" pin="8" pinfunction="RG@1" pintype="passive"/>
+      <node ref="R217" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(IC206A-+IN)">
+      <node ref="C221" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="IC206" pin="3" pinfunction="+IN" pintype="input"/>
+      <node ref="R226" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(IC206A--IN)">
+      <node ref="C224" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="IC206" pin="2" pinfunction="-IN" pintype="input"/>
+      <node ref="R222" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R225" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(IC206A-OUT)">
+      <node ref="C224" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C228" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="IC206" pin="1" pinfunction="OUT" pintype="output"/>
+      <node ref="R225" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(IC206B-+IN)">
+      <node ref="C235" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC206" pin="5" pinfunction="+IN" pintype="input"/>
+      <node ref="R233" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(IC206B--IN)">
+      <node ref="C233" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="IC206" pin="6" pinfunction="-IN" pintype="input"/>
+      <node ref="R234" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R235" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(P203-Pad1)">
+      <node ref="P203" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R222" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(Q202-B)">
+      <node ref="Q202" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="Q206" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R211" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R212" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(Q202-C)">
+      <node ref="C207" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C210" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q202" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q206" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R204" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R212" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(Q204-B)">
+      <node ref="Q204" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="Q208" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R209" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R210" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(Q204-C)">
+      <node ref="C206" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C210" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Q204" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q208" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R203" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R209" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(U1-ADJ)">
+      <node ref="P1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="P1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="ADJ" pintype="input"/>
+    </net>
+    <net code="28" name="OUT">
+      <node ref="C233" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C236" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC206" pin="7" pinfunction="OUT" pintype="output"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R235" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="29" name="RIGHT LEG">
+      <node ref="C212" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C216" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R213" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="30" name="VCC">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="31" name="VGND">
+      <node ref="C206" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C207" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C215" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C218" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C219" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C223" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C226" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C235" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="CH1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CH1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="IC203" pin="5" pinfunction="REF" pintype="passive"/>
+      <node ref="P201" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="P203" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="P203" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="Q202" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q204" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q206" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q208" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R226" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R234" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R236" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="32" name="cha1 +">
+      <node ref="CH1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R203" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="33" name="cha1 -">
+      <node ref="CH1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R204" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>
