@@ -8,7 +8,7 @@ import numpy as np
 import os
 import struct
 
-def ler_arquivo(path, inicio=0, nbytes=None):
+def read(path, inicio=0, nbytes=None):
   """
   Função que lê um arquivo completo e retorna uma lista de uint16 little endian.
 
@@ -41,17 +41,7 @@ def ler_arquivo(path, inicio=0, nbytes=None):
   # Retornar a lista de uint16
   return dados
 
-def gravaarquivo(path, dados):
-  """
-  Função para gravar uma lista de inteiros de 16 bits em um arquivo binário.
-
-  Argumentos:
-    path: string, o endereço do arquivo a ser criado.
-    dados: lista de inteiros de 16 bits.
-
-  Retorna:
-    None.
-  """
+def write(path, dados):
   # Abrindo o arquivo no modo binário para escrita.
   with open(path, "wb") as arquivo:
     # Convertendo a lista de inteiros para um objeto bytes.
