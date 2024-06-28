@@ -56,7 +56,7 @@ button_save.grid(row=0, column=5, pady=5)
 # Função para atualizar o gráfico continuamente
 def update_graph():
     while conexao_ativa:
-        dados = conexao.read(1000)
+        dados = conexao.read(int(1000 * taxa))
         grafico.atualiza(dados)
         time.sleep(taxa)  # Ajuste o intervalo de atualização aqui
 
@@ -86,7 +86,7 @@ def button_start_click():
         print("start\n")
         global nome_arquivo
         data_hora = datetime.datetime.now()
-        nome_arquivo = "./dados/" + f"{data_hora.strftime('%y%m%d-%H-%M-%S')}.raw"
+        nome_arquivo = "../dados/" + f"{data_hora.strftime('%y%m%d-%H-%M-%S')}.raw"
     
         selected_port = port_variable.get()
         global conexao

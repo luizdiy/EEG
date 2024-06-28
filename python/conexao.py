@@ -1,7 +1,5 @@
 import serial
 import threading
-import time
-import testeserial
 
 class Conexao(threading.Thread):
     def __init__(self):
