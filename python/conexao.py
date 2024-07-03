@@ -5,6 +5,7 @@ class Conexao(threading.Thread):
     def __init__(self):
         super().__init__()
         self.connected = False
+        self.read_bytes = 0
 
     def connect(self, port, baudrate = 115200):
         #
@@ -35,10 +36,13 @@ class Conexao(threading.Thread):
     def stop(self):
         if self.connected:
             self.connected = False
+            self.read_bytes = 0
         print("conexão parada")
         
     def read(self, nbytes = 0):
-
+        return self.dados[nbytes:]
+        
+"""
         if nbytes > 0:
             # Se o número de bytes solicitados for maior que o tamanho da lista, retorna a lista toda
             if nbytes > len(self.dados):
@@ -50,3 +54,4 @@ class Conexao(threading.Thread):
             return self.dados
 
         
+"""

@@ -48,6 +48,3 @@ def write(path, dados):
     dados_bytes = np.array(dados, dtype=np.uint16).tobytes()
     # Gravando o objeto bytes no arquivo.
     arquivo.write(dados_bytes)
-        
-#data_hora = datetime.datetime.now()
-#nome_arquivo = "/home/luiz/testes/" + f"{data_hora.strftime('%y%m%d-%H-%M-%S')}.eeg"
