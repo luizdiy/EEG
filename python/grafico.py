@@ -6,7 +6,8 @@ from matplotlib.figure import Figure
 class Grafico:
     def __init__(self, master):
         self.master = master  # Armazena a referência ao master (janela Tkinter)
-        self.fig = Figure(figsize=(15, 8), dpi=100)
+        self.fig = Figure(figsize=(5, 4), dpi=100)
+        self.fig = Figure(tight_layout = True)
         self.ax = self.fig.add_subplot()
         #self.ax.set_title("Gráfico Dinâmico")
         #self.ax.set_xlabel("Índice")
@@ -46,7 +47,7 @@ class Grafico:
 class GraficoMultiplo:
     def __init__(self, master):
         self.master = master  # Armazena a referência ao master (janela Tkinter)
-        self.fig = Figure(figsize=(5, 4), dpi=100)
+        self.fig = Figure(tight_layout = True)
         self.ax = self.fig.add_subplot()
         #self.ax.set_title("Gráfico Dinâmico")
         #self.ax.set_xlabel("Índice")
@@ -86,9 +87,9 @@ class GraficoMultiplo:
         # Configura os ticks do eixo x para o último subplot
         self.ax.set_xticks(range(0, len(dados[0]), 1000))
         self.ax.set_xticklabels([str(i / 1000) for i in range(0, len(dados[0]), 1000)])
-        #self.ax.set_yticks([])  # Remove os ticks do eixo y do último subplot
+        self.ax.set_yticks([])  # Remove os ticks do eixo y do último subplot
 
         # Coloca a legenda do lado esquerdo do gráfico
-        self.ax.legend(loc='center left', bbox_to_anchor=(0.05, 0.5))  # Altera a posição da legenda
+        self.ax.legend(loc='lower left', bbox_to_anchor=(0.9, 0))  # Altera a posição da legenda
 
         self.canvas.draw()

@@ -11,6 +11,7 @@ from scipy.signal import butter, lfilter
 
 def filtro_passa_faixa(dados, lowcut, highcut, fs):
   """
+
   Aplica um filtro passa-faixa Butterworth de segunda ordem.
 
   Args:
@@ -26,7 +27,7 @@ def filtro_passa_faixa(dados, lowcut, highcut, fs):
   nyq = 0.5 * fs
   low = lowcut / nyq
   high = highcut / nyq
-  b, a = butter(2, [low, high], btype='band')
+  b, a = butter(3, [low, high], btype='band')
   dados_filtrados = lfilter(b, a, dados)
   return dados_filtrados
 
