@@ -31,7 +31,7 @@ class JanelaAnalise(tk.Toplevel):
         """Abre uma caixa de diálogo para o usuário selecionar um arquivo."""
         global arquivo_selecionado
         arquivo_selecionado = filedialog.askopenfilename(
-            initialdir="../dados",
+            initialdir="./dados",
             title="Selecione um arquivo",
             filetypes=(("Arquivos de texto", "*.raw"), ("Todos os arquivos", "*.*"))
         )

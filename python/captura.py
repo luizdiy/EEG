@@ -105,7 +105,7 @@ class JanelaCaptura(tk.Toplevel):
         if not self.port_variable.get() == 'none':
             print("start\n")
             data_hora = datetime.datetime.now()
-            self.nome_arquivo = "../dados/" + f"{data_hora.strftime('%y%m%d-%H-%M-%S')}.raw"
+            self.nome_arquivo = "./dados/" + f"{data_hora.strftime('%y%m%d-%H-%M-%S')}.raw"
         
             selected_port = self.port_variable.get()
             self.conexao = Conexao()
